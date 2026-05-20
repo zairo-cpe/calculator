@@ -8,7 +8,7 @@ A sleek, lightweight web-based calculator featuring a modern, comfortable glassm
 
 ## 📸 Preview
 
-![Calculator Screenshot](14774.jpg) 
+![Calculator Screenshot](preview.jpg) 
 *(Note: Ensure your image file name matches exactly in your GitHub repository)*
 
 ---
